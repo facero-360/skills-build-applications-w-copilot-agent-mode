@@ -27,6 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# Add Codespace URL to ALLOWED_HOSTS
+ALLOWED_HOSTS += ["fictional-happiness-6r4g7xwjq59cqpj-8000.app.github.dev"]
+
 
 # Application definition
 
